@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Yaswanth 👋
 
-<!--
-**Yaswanth0411/Yaswanth0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student  
+💻 Django Developer  
+🤖 Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- Django
+- Machine Learning
+- SQL
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+- Salary Prediction Web App
+- Django E-commerce Website
+- DSA Practice Repository
+- SkillBank X Team 
+
+---
+
+## 🎯 Current Goal
+Preparing for Campus Placements & Building Production-Level Projects
